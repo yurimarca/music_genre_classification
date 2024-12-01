@@ -1,0 +1,17 @@
+name: evaluate_data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - pip
+  - scikit-learn
+  - matplotlib
+  - plotly
+  - pillow
+  - mlflow
+  - pip:
+      - wandb
+      - protobuf
+      - databricks_cli

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/c27ff118e0e643a89d10c97a6bf52da0/artifacts
+end_time: 1733004109379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c27ff118e0e643a89d10c97a6bf52da0
+run_name: wise-shrike-315
+run_uuid: c27ff118e0e643a89d10c97a6bf52da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733003878170
+status: 4
+tags: []
+user_id: ymarca

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/5e7186674640491fa7ee1e0f293e3faa/artifacts
+end_time: 1733004432851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e7186674640491fa7ee1e0f293e3faa
+run_name: invincible-fish-341
+run_uuid: 5e7186674640491fa7ee1e0f293e3faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733004430389
+status: 4
+tags: []
+user_id: ymarca

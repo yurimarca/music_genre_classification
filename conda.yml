@@ -1,0 +1,14 @@
+name: music_genre_classification
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - requests
+  - pip
+  - mlflow
+  - hydra-core
+  - pip:
+      - wandb
+      - hydra-joblib-launcher
+      - databricks_cli
+      - protobuf

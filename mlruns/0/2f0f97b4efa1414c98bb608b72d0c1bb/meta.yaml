@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/2f0f97b4efa1414c98bb608b72d0c1bb/artifacts
+end_time: 1733178853263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f0f97b4efa1414c98bb608b72d0c1bb
+run_name: spiffy-crow-743
+run_uuid: 2f0f97b4efa1414c98bb608b72d0c1bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733178714159
+status: 4
+tags: []
+user_id: ymarca

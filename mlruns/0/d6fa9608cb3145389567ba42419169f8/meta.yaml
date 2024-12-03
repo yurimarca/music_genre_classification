@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/d6fa9608cb3145389567ba42419169f8/artifacts
+end_time: 1733180455364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6fa9608cb3145389567ba42419169f8
+run_name: welcoming-cat-235
+run_uuid: d6fa9608cb3145389567ba42419169f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733180452914
+status: 4
+tags: []
+user_id: ymarca

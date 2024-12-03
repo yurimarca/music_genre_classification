@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/f566105b7f7f42eead2a9cd76c054e67/artifacts
+end_time: 1733089560942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f566105b7f7f42eead2a9cd76c054e67
+run_name: skittish-robin-554
+run_uuid: f566105b7f7f42eead2a9cd76c054e67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733089558096
+status: 4
+tags: []
+user_id: ymarca

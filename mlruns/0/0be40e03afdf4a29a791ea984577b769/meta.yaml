@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/0be40e03afdf4a29a791ea984577b769/artifacts
+end_time: 1733183385214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0be40e03afdf4a29a791ea984577b769
+run_name: amazing-gull-777
+run_uuid: 0be40e03afdf4a29a791ea984577b769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183378407
+status: 4
+tags: []
+user_id: ymarca

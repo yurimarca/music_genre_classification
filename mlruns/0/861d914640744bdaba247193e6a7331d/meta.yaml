@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/861d914640744bdaba247193e6a7331d/artifacts
+end_time: 1733178698191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 861d914640744bdaba247193e6a7331d
+run_name: languid-mole-711
+run_uuid: 861d914640744bdaba247193e6a7331d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733178695751
+status: 4
+tags: []
+user_id: ymarca

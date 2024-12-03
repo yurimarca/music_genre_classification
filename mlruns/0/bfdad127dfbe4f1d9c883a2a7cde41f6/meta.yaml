@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/bfdad127dfbe4f1d9c883a2a7cde41f6/artifacts
+end_time: 1733089776340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfdad127dfbe4f1d9c883a2a7cde41f6
+run_name: gentle-crab-286
+run_uuid: bfdad127dfbe4f1d9c883a2a7cde41f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733089595345
+status: 4
+tags: []
+user_id: ymarca

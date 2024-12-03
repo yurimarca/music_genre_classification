@@ -1,0 +1,18 @@
+{"time":"2024-12-02T20:41:04.58699449-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T20:41:04.587046528-03:00","level":"INFO","msg":"created symlink","path":"/home/ymarca/Code/music_genre_classification/check_data/wandb/run-20241202_204104-xl6fo0xi/logs/debug-core.log"}
+{"time":"2024-12-02T20:41:04.692097021-03:00","level":"INFO","msg":"created new stream","id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:04.692189399-03:00","level":"INFO","msg":"stream: started","id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:04.692281032-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:04.692381369-03:00","level":"INFO","msg":"sender: started","stream_id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:04.692508916-03:00","level":"INFO","msg":"handler: started","stream_id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:05.109930312-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T20:41:07.105404661-03:00","level":"INFO","msg":"stream: closing","id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:07.105436624-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T20:41:07.105898319-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T20:41:07.425055746-03:00","level":"WARN","msg":"No program path found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job"}
+{"time":"2024-12-02T20:41:07.425109063-03:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-02T20:41:08.17193977-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-02T20:41:08.550236492-03:00","level":"INFO","msg":"handler: closed","stream_id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:08.550348207-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:08.550419616-03:00","level":"INFO","msg":"sender: closed","stream_id":"xl6fo0xi"}
+{"time":"2024-12-02T20:41:08.550605768-03:00","level":"INFO","msg":"stream: closed","id":"xl6fo0xi"}

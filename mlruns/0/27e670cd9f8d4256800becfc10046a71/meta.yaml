@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/27e670cd9f8d4256800becfc10046a71/artifacts
+end_time: 1733184024083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27e670cd9f8d4256800becfc10046a71
+run_name: whimsical-jay-749
+run_uuid: 27e670cd9f8d4256800becfc10046a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183876918
+status: 4
+tags: []
+user_id: ymarca

@@ -1,0 +1,31 @@
+{
+    "os": "Linux-6.8.9-100.fc38.x86_64-x86_64-with-glibc2.17",
+    "python": "3.8.20",
+    "heartbeatAt": "2024-12-02T23:24:59.463630",
+    "startedAt": "2024-12-02T23:24:58.429212",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/yurimarca/mlops/blob/main/reproducible_model_workflow/2_data-exploration-and-preparation/4_eda/my-solution/artifacts/genres_mod.parquet%3Av0/genres_mod.parquet?raw=true\"",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "git@github.com:yurimarca/music_genre_classification.git",
+        "commit": "b0c968d422ce3691f55b773267c6f2f4719b9045"
+    },
+    "email": "yurimarca@gmail.com",
+    "root": "/home/ymarca/Code/music_genre_classification",
+    "host": "fedora",
+    "username": "ymarca",
+    "executable": "/home/ymarca/anaconda3/envs/mlflow-370acdc6a19ad8a82a7b40b1286f80c734b36437/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/0a418e7c68e445bd9a61b6df5d2452b2/artifacts
+end_time: 1733183099705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a418e7c68e445bd9a61b6df5d2452b2
+run_name: judicious-snake-533
+run_uuid: 0a418e7c68e445bd9a61b6df5d2452b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183085027
+status: 4
+tags: []
+user_id: ymarca

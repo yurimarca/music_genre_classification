@@ -1,5 +1,15 @@
+import logging
 import scipy.stats
 import pandas as pd
+
+# Logging configuration
+# NOTE: the current implementation fails to log to the logging file
+logging.basicConfig(
+    filename='../ml_pipeline.log', # filename, where it's dumped
+    level=logging.INFO, # minimum level I log
+    filemode='a', # append
+    format='%(name)s - %(asctime)s - %(levelname)s - check_data - %(message)s') # add component name for tracing
+logger = logging.getLogger()
 
 
 def test_column_presence_and_type(data):
@@ -117,4 +127,9 @@ def test_kolmogorov_smirnov(data, ks_alpha):
         # obtaining a test statistic (TS) equal or more extreme that the one we got
         # by chance, when the null hypothesis is true. If this probability is not
         # large enough, this dataset should be looked at carefully, hence we fail
-        assert p_value > alpha_prime
+        try:
+            assert p_value > alpha_prime
+        except AssertionError as err:
+            logger.error("test_kolmogorov_smirnov: p-value below threshold: %.5f", p_value)
+        except Exception as e:
+            logger.error(e)

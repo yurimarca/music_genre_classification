@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/38537d9032e04802ac5eea8318ef8c27/artifacts
+end_time: 1733181265814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38537d9032e04802ac5eea8318ef8c27
+run_name: spiffy-wren-521
+run_uuid: 38537d9032e04802ac5eea8318ef8c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733181222379
+status: 4
+tags: []
+user_id: ymarca

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/2f4474bfeb7d491da02e5003f8540e24/artifacts
+end_time: 1733182753681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f4474bfeb7d491da02e5003f8540e24
+run_name: upset-squirrel-291
+run_uuid: 2f4474bfeb7d491da02e5003f8540e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733182741965
+status: 4
+tags: []
+user_id: ymarca

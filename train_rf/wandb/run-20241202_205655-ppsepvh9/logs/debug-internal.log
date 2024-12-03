@@ -1,0 +1,16 @@
+{"time":"2024-12-02T20:56:55.507117866-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T20:56:55.507153138-03:00","level":"INFO","msg":"created symlink","path":"/home/ymarca/Code/music_genre_classification/train_rf/wandb/run-20241202_205655-ppsepvh9/logs/debug-core.log"}
+{"time":"2024-12-02T20:56:55.611028351-03:00","level":"INFO","msg":"created new stream","id":"ppsepvh9"}
+{"time":"2024-12-02T20:56:55.611059283-03:00","level":"INFO","msg":"stream: started","id":"ppsepvh9"}
+{"time":"2024-12-02T20:56:55.611084758-03:00","level":"INFO","msg":"sender: started","stream_id":"ppsepvh9"}
+{"time":"2024-12-02T20:56:55.611079326-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ppsepvh9"}
+{"time":"2024-12-02T20:56:55.611141333-03:00","level":"INFO","msg":"handler: started","stream_id":"ppsepvh9"}
+{"time":"2024-12-02T20:56:56.206200374-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T20:57:31.508456371-03:00","level":"INFO","msg":"stream: closing","id":"ppsepvh9"}
+{"time":"2024-12-02T20:57:31.508499368-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T20:57:31.509071799-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T20:57:35.127549111-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-02T20:57:35.399665747-03:00","level":"INFO","msg":"handler: closed","stream_id":"ppsepvh9"}
+{"time":"2024-12-02T20:57:35.39980438-03:00","level":"INFO","msg":"sender: closed","stream_id":"ppsepvh9"}
+{"time":"2024-12-02T20:57:35.399722965-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ppsepvh9"}
+{"time":"2024-12-02T20:57:35.399937551-03:00","level":"INFO","msg":"stream: closed","id":"ppsepvh9"}

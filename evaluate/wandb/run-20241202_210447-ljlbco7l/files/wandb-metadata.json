@@ -1,0 +1,38 @@
+{
+  "os": "Linux-6.8.9-100.fc38.x86_64-x86_64-with-glibc2.37",
+  "python": "3.10.15",
+  "startedAt": "2024-12-03T00:04:47.957494Z",
+  "args": [
+    "--model_export",
+    "model_export:latest",
+    "--test_data",
+    "data_test.csv:latest"
+  ],
+  "program": "/home/ymarca/Code/music_genre_classification/evaluate/run.py",
+  "codePath": "evaluate/run.py",
+  "git": {
+    "remote": "git@github.com:yurimarca/music_genre_classification.git",
+    "commit": "b0c968d422ce3691f55b773267c6f2f4719b9045"
+  },
+  "email": "yurimarca@gmail.com",
+  "root": "/home/ymarca/Code/music_genre_classification/evaluate",
+  "host": "fedora",
+  "username": "ymarca",
+  "executable": "/home/ymarca/anaconda3/envs/mlflow-52c6c84c41108675f150218f7524e5b22dee91ea/bin/python",
+  "codePathLocal": "run.py",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "254356226048",
+      "used": "105951551488"
+    }
+  },
+  "memory": {
+    "total": "8034201600"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

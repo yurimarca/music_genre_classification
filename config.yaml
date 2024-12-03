@@ -16,7 +16,7 @@ data:
   #file_url: "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true"
   file_url: https://github.com/yurimarca/mlops/blob/main/reproducible_model_workflow/2_data-exploration-and-preparation/4_eda/my-solution/artifacts/genres_mod.parquet%3Av0/genres_mod.parquet?raw=true"
   #reference_dataset: "exercise_14/preprocessed_data.csv:latest"
-  reference_dataset: "music_genre_classification/preprocessed_data.csv:latest"
+  reference_dataset: "music_genre_classification/clean_data.csv:latest"
   # Threshold for Kolomorov-Smirnov test
   ks_alpha: 0.05
   test_size: 0.3

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/e206213c518d4b4684078efe2a008bbc/artifacts
+end_time: 1733184024452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e206213c518d4b4684078efe2a008bbc
+run_name: whimsical-bug-142
+run_uuid: e206213c518d4b4684078efe2a008bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183872503
+status: 4
+tags: []
+user_id: ymarca

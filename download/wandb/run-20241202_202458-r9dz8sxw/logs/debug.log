@@ -1,0 +1,28 @@
+2024-12-02 20:24:58,434 INFO    MainThread:7782 [wandb_setup.py:_flush():69] setting env: {'run_group': 'dev', 'project': 'music_genre_classification'}
+2024-12-02 20:24:58,434 INFO    MainThread:7782 [wandb_setup.py:_flush():69] setting login settings: {}
+2024-12-02 20:24:58,435 INFO    MainThread:7782 [wandb_init.py:_log_setup():334] Logging user logs to /home/ymarca/Code/music_genre_classification/download/wandb/run-20241202_202458-r9dz8sxw/logs/debug.log
+2024-12-02 20:24:58,435 INFO    MainThread:7782 [wandb_init.py:_log_setup():335] Logging internal logs to /home/ymarca/Code/music_genre_classification/download/wandb/run-20241202_202458-r9dz8sxw/logs/debug-internal.log
+2024-12-02 20:24:58,437 INFO    MainThread:7782 [wandb_init.py:init():367] calling init triggers
+2024-12-02 20:24:58,437 INFO    MainThread:7782 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2024-12-02 20:24:58,438 INFO    MainThread:7782 [wandb_init.py:init():416] starting backend
+2024-12-02 20:24:58,438 INFO    MainThread:7782 [backend.py:_multiprocessing_setup():69] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-12-02 20:24:58,455 INFO    MainThread:7782 [backend.py:ensure_launched():123] starting backend process...
+2024-12-02 20:24:58,459 INFO    MainThread:7782 [backend.py:ensure_launched():127] started backend process with pid: 7793
+2024-12-02 20:24:58,460 INFO    MainThread:7782 [wandb_init.py:init():421] backend started and connected
+2024-12-02 20:24:58,462 INFO    MainThread:7782 [wandb_init.py:init():461] updated telemetry
+2024-12-02 20:24:58,463 INFO    MainThread:7782 [wandb_init.py:init():480] communicating current version
+2024-12-02 20:24:59,036 INFO    MainThread:7782 [wandb_init.py:init():485] got version response upgrade_message: "wandb version 0.18.7 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-12-02 20:24:59,037 INFO    MainThread:7782 [wandb_init.py:init():493] communicating run to backend with 30 second timeout
+2024-12-02 20:24:59,451 INFO    MainThread:7782 [wandb_init.py:init():518] starting run threads in backend
+2024-12-02 20:24:59,494 INFO    MainThread:7782 [wandb_run.py:_console_start():1476] atexit reg
+2024-12-02 20:24:59,495 INFO    MainThread:7782 [wandb_run.py:_redirect():1339] redirect: SettingsConsole.REDIRECT
+2024-12-02 20:24:59,495 INFO    MainThread:7782 [wandb_run.py:_redirect():1344] Redirecting console.
+2024-12-02 20:24:59,495 INFO    MainThread:7782 [redirect.py:install():213] install start
+2024-12-02 20:24:59,496 INFO    MainThread:7782 [redirect.py:install():228] install stop
+2024-12-02 20:24:59,496 INFO    MainThread:7782 [redirect.py:install():213] install start
+2024-12-02 20:24:59,496 INFO    MainThread:7782 [redirect.py:install():228] install stop
+2024-12-02 20:24:59,496 INFO    MainThread:7782 [wandb_run.py:_redirect():1390] Redirects installed.
+2024-12-02 20:24:59,496 INFO    MainThread:7782 [wandb_init.py:init():542] run started, returning control to user process
+2024-12-02 20:25:06,506 INFO    MainThread:7782 [wandb_run.py:finish():1135] finishing run yurimarca-ai/music_genre_classification/r9dz8sxw

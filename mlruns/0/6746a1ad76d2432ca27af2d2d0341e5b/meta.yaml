@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/6746a1ad76d2432ca27af2d2d0341e5b/artifacts
+end_time: 1733183649522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6746a1ad76d2432ca27af2d2d0341e5b
+run_name: salty-squid-198
+run_uuid: 6746a1ad76d2432ca27af2d2d0341e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183496653
+status: 3
+tags: []
+user_id: ymarca

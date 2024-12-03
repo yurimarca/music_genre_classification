@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/3f57f8525a094d68b53cb4474d1e428b/artifacts
+end_time: 1733183419621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f57f8525a094d68b53cb4474d1e428b
+run_name: beautiful-flea-585
+run_uuid: 3f57f8525a094d68b53cb4474d1e428b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183405672
+status: 3
+tags: []
+user_id: ymarca

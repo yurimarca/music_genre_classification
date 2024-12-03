@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/f88ad88b249c4e508940591dae398e01/artifacts
+end_time: 1733182753400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f88ad88b249c4e508940591dae398e01
+run_name: upbeat-sponge-859
+run_uuid: f88ad88b249c4e508940591dae398e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733182745172
+status: 4
+tags: []
+user_id: ymarca

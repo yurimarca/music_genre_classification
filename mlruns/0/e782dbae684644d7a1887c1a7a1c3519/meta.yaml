@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/e782dbae684644d7a1887c1a7a1c3519/artifacts
+end_time: 1733182844543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e782dbae684644d7a1887c1a7a1c3519
+run_name: hilarious-fox-830
+run_uuid: e782dbae684644d7a1887c1a7a1c3519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733182827214
+status: 3
+tags: []
+user_id: ymarca

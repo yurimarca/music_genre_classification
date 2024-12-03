@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/3b950f186ab44828a21018b00edcee55/artifacts
+end_time: 1733089523473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b950f186ab44828a21018b00edcee55
+run_name: rebellious-bug-475
+run_uuid: 3b950f186ab44828a21018b00edcee55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733089308034
+status: 4
+tags: []
+user_id: ymarca

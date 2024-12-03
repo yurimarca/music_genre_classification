@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/725169aaeae744afb92dd1ebac3235ab/artifacts
+end_time: 1733184298954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 725169aaeae744afb92dd1ebac3235ab
+run_name: masked-wren-284
+run_uuid: 725169aaeae744afb92dd1ebac3235ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733184283004
+status: 3
+tags: []
+user_id: ymarca

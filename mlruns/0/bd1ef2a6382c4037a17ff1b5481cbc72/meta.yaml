@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/bd1ef2a6382c4037a17ff1b5481cbc72/artifacts
+end_time: 1733183385494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd1ef2a6382c4037a17ff1b5481cbc72
+run_name: awesome-hare-108
+run_uuid: bd1ef2a6382c4037a17ff1b5481cbc72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183375177
+status: 4
+tags: []
+user_id: ymarca

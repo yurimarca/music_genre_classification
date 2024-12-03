@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/d3bb966a5fd24f9684ea4e4fbe17f0bc/artifacts
+end_time: 1733182781199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3bb966a5fd24f9684ea4e4fbe17f0bc
+run_name: amazing-grouse-793
+run_uuid: d3bb966a5fd24f9684ea4e4fbe17f0bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733182777923
+status: 4
+tags: []
+user_id: ymarca

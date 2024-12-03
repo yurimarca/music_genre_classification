@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/16416964d11241e395a5c910c591ea7a/artifacts
+end_time: 1733182869201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16416964d11241e395a5c910c591ea7a
+run_name: classy-conch-876
+run_uuid: 16416964d11241e395a5c910c591ea7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733182823739
+status: 4
+tags: []
+user_id: ymarca

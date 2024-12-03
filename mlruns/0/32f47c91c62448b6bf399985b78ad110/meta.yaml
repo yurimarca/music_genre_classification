@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/32f47c91c62448b6bf399985b78ad110/artifacts
+end_time: 1733183419434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32f47c91c62448b6bf399985b78ad110
+run_name: flawless-finch-127
+run_uuid: 32f47c91c62448b6bf399985b78ad110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183409003
+status: 3
+tags: []
+user_id: ymarca

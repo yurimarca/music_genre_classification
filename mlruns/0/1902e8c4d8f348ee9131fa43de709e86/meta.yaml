@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/1902e8c4d8f348ee9131fa43de709e86/artifacts
+end_time: 1733182868914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1902e8c4d8f348ee9131fa43de709e86
+run_name: abundant-shark-967
+run_uuid: 1902e8c4d8f348ee9131fa43de709e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733182860714
+status: 4
+tags: []
+user_id: ymarca

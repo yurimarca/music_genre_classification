@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/e9b20a90aa074c518f2e1559f9d30fb5/artifacts
+end_time: 1733183856304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9b20a90aa074c518f2e1559f9d30fb5
+run_name: sassy-cow-540
+run_uuid: e9b20a90aa074c518f2e1559f9d30fb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183662362
+status: 3
+tags: []
+user_id: ymarca

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/7d0dbf504fcc4cf5b3daddccf1e64b32/artifacts
+end_time: 1733178662405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d0dbf504fcc4cf5b3daddccf1e64b32
+run_name: bemused-bug-652
+run_uuid: 7d0dbf504fcc4cf5b3daddccf1e64b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733178489383
+status: 4
+tags: []
+user_id: ymarca

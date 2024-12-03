@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/467f167511c145379cf186d97fd385bd/artifacts
+end_time: 1733182093166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 467f167511c145379cf186d97fd385bd
+run_name: beautiful-skink-973
+run_uuid: 467f167511c145379cf186d97fd385bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733182042269
+status: 4
+tags: []
+user_id: ymarca

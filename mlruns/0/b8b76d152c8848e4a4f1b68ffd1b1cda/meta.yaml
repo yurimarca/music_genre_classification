@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/b8b76d152c8848e4a4f1b68ffd1b1cda/artifacts
+end_time: 1733182092818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8b76d152c8848e4a4f1b68ffd1b1cda
+run_name: sneaky-boar-21
+run_uuid: b8b76d152c8848e4a4f1b68ffd1b1cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733182045459
+status: 4
+tags: []
+user_id: ymarca

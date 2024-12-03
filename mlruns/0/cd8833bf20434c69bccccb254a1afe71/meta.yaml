@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/cd8833bf20434c69bccccb254a1afe71/artifacts
+end_time: 1733181910324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd8833bf20434c69bccccb254a1afe71
+run_name: classy-zebra-497
+run_uuid: cd8833bf20434c69bccccb254a1afe71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733181742833
+status: 3
+tags: []
+user_id: ymarca

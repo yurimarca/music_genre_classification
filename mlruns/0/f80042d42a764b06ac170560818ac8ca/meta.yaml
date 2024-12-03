@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/f80042d42a764b06ac170560818ac8ca/artifacts
+end_time: 1733183855999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80042d42a764b06ac170560818ac8ca
+run_name: nervous-cub-263
+run_uuid: f80042d42a764b06ac170560818ac8ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183668021
+status: 3
+tags: []
+user_id: ymarca

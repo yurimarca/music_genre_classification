@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/a1d34290b21e403e95a59920cd810988/artifacts
+end_time: 1733184299147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1d34290b21e403e95a59920cd810988
+run_name: trusting-tern-529
+run_uuid: a1d34290b21e403e95a59920cd810988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733184279449
+status: 3
+tags: []
+user_id: ymarca

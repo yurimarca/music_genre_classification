@@ -1,0 +1,18 @@
+{"time":"2024-12-02T20:49:42.427655219-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T20:49:42.427681887-03:00","level":"INFO","msg":"created symlink","path":"/home/ymarca/Code/music_genre_classification/check_data/wandb/run-20241202_204942-1g4z5a3r/logs/debug-core.log"}
+{"time":"2024-12-02T20:49:42.533888821-03:00","level":"INFO","msg":"created new stream","id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:42.533977069-03:00","level":"INFO","msg":"stream: started","id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:42.534108674-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:42.534092966-03:00","level":"INFO","msg":"sender: started","stream_id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:42.534201977-03:00","level":"INFO","msg":"handler: started","stream_id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:43.049969192-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T20:49:43.636268897-03:00","level":"INFO","msg":"stream: closing","id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:43.636304494-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T20:49:43.636782123-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T20:49:43.837615685-03:00","level":"WARN","msg":"No program path found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job"}
+{"time":"2024-12-02T20:49:43.837684459-03:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-02T20:49:44.537528143-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-02T20:49:44.853507058-03:00","level":"INFO","msg":"handler: closed","stream_id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:44.85361107-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:44.853690589-03:00","level":"INFO","msg":"sender: closed","stream_id":"1g4z5a3r"}
+{"time":"2024-12-02T20:49:44.853900771-03:00","level":"INFO","msg":"stream: closed","id":"1g4z5a3r"}

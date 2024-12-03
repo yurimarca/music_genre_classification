@@ -12,4 +12,4 @@ dependencies:
   - pip:
       - wandb
       - databricks_cli
-      - protobuf
+      - protobuf==3.20.3

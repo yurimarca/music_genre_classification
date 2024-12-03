@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/0d69f809c4b042209d83a728970a7d5d/artifacts
+end_time: 1733090293455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d69f809c4b042209d83a728970a7d5d
+run_name: classy-toad-357
+run_uuid: 0d69f809c4b042209d83a728970a7d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733090122355
+status: 4
+tags: []
+user_id: ymarca

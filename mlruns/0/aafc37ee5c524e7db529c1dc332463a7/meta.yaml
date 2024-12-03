@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/aafc37ee5c524e7db529c1dc332463a7/artifacts
+end_time: 1733183099419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aafc37ee5c524e7db529c1dc332463a7
+run_name: ambitious-calf-280
+run_uuid: aafc37ee5c524e7db529c1dc332463a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183088313
+status: 4
+tags: []
+user_id: ymarca

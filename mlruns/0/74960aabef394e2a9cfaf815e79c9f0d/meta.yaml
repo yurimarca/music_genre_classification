@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/74960aabef394e2a9cfaf815e79c9f0d/artifacts
+end_time: 1733183330623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74960aabef394e2a9cfaf815e79c9f0d
+run_name: glamorous-asp-165
+run_uuid: 74960aabef394e2a9cfaf815e79c9f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183315614
+status: 4
+tags: []
+user_id: ymarca

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/856662eda794432c9873ed22d21877ad/artifacts
+end_time: 1733181910138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 856662eda794432c9873ed22d21877ad
+run_name: ambitious-moth-754
+run_uuid: 856662eda794432c9873ed22d21877ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733181864391
+status: 3
+tags: []
+user_id: ymarca

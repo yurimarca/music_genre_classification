@@ -1,0 +1,18 @@
+2024-12-02 20:40:48,973 Downloading artifact
+2024-12-02 20:40:52,123 Dropping duplicates
+2024-12-02 20:40:52,160 Feature engineering
+/home/ymarca/Code/music_genre_classification/preprocess/run.py:30: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  df['title'].fillna(value='', inplace=True)
+/home/ymarca/Code/music_genre_classification/preprocess/run.py:31: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  df['song_name'].fillna(value='', inplace=True)
+2024-12-02 20:40:52,825 Logging artifact

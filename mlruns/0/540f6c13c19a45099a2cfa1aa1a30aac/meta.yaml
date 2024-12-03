@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/540f6c13c19a45099a2cfa1aa1a30aac/artifacts
+end_time: 1733089248124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 540f6c13c19a45099a2cfa1aa1a30aac
+run_name: delightful-gnu-347
+run_uuid: 540f6c13c19a45099a2cfa1aa1a30aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733089245759
+status: 4
+tags: []
+user_id: ymarca

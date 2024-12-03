@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/894a672c874d451ba0dae60af705e92e/artifacts
+end_time: 1733183330330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 894a672c874d451ba0dae60af705e92e
+run_name: stylish-colt-323
+run_uuid: 894a672c874d451ba0dae60af705e92e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733183319080
+status: 4
+tags: []
+user_id: ymarca

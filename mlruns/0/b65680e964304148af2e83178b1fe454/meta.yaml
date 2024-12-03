@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/b65680e964304148af2e83178b1fe454/artifacts
+end_time: 1733089180325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b65680e964304148af2e83178b1fe454
+run_name: languid-lynx-540
+run_uuid: b65680e964304148af2e83178b1fe454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733089177330
+status: 4
+tags: []
+user_id: ymarca

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/138e962cbeb24f1fab7dc672683c2587/artifacts
+end_time: 1733181058334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 138e962cbeb24f1fab7dc672683c2587
+run_name: salty-slug-317
+run_uuid: 138e962cbeb24f1fab7dc672683c2587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733181038530
+status: 4
+tags: []
+user_id: ymarca

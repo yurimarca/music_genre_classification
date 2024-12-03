@@ -9,4 +9,4 @@ dependencies:
   - pyarrow
   - pip:
       - wandb
-      - protobuf
+      - protobuf==3.20.3

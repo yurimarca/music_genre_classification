@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/ff854bc70a5d445092237e2cacd38783/artifacts
+end_time: 1733268595460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff854bc70a5d445092237e2cacd38783
+run_name: righteous-bass-723
+run_uuid: ff854bc70a5d445092237e2cacd38783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733268591156
+status: 4
+tags: []
+user_id: ymarca

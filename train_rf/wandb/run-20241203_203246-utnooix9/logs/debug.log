@@ -1,0 +1,27 @@
+2024-12-03 20:32:46,502 INFO    MainThread:6068 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-12-03 20:32:46,503 INFO    MainThread:6068 [wandb_setup.py:_flush():79] Configure stats pid to 6068
+2024-12-03 20:32:46,503 INFO    MainThread:6068 [wandb_setup.py:_flush():79] Loading settings from /home/ymarca/.config/wandb/settings
+2024-12-03 20:32:46,503 INFO    MainThread:6068 [wandb_setup.py:_flush():79] Loading settings from /home/ymarca/Code/music_genre_classification/train_rf/wandb/settings
+2024-12-03 20:32:46,504 INFO    MainThread:6068 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'run_group': 'dev', 'project': 'prod'}
+2024-12-03 20:32:46,504 INFO    MainThread:6068 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-12-03 20:32:46,504 INFO    MainThread:6068 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'train_rf/run.py', 'program_abspath': '/home/ymarca/Code/music_genre_classification/train_rf/run.py', 'program': '/home/ymarca/Code/music_genre_classification/train_rf/run.py'}
+2024-12-03 20:32:46,504 INFO    MainThread:6068 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-12-03 20:32:46,504 INFO    MainThread:6068 [wandb_init.py:_log_setup():533] Logging user logs to /home/ymarca/Code/music_genre_classification/train_rf/wandb/run-20241203_203246-utnooix9/logs/debug.log
+2024-12-03 20:32:46,505 INFO    MainThread:6068 [wandb_init.py:_log_setup():534] Logging internal logs to /home/ymarca/Code/music_genre_classification/train_rf/wandb/run-20241203_203246-utnooix9/logs/debug-internal.log
+2024-12-03 20:32:46,505 INFO    MainThread:6068 [wandb_init.py:init():619] calling init triggers
+2024-12-03 20:32:46,505 INFO    MainThread:6068 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 20:32:46,505 INFO    MainThread:6068 [wandb_init.py:init():669] starting backend
+2024-12-03 20:32:46,505 INFO    MainThread:6068 [wandb_init.py:init():673] sending inform_init request
+2024-12-03 20:32:46,512 INFO    MainThread:6068 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-12-03 20:32:46,513 INFO    MainThread:6068 [wandb_init.py:init():686] backend started and connected
+2024-12-03 20:32:46,521 INFO    MainThread:6068 [wandb_init.py:init():781] updated telemetry
+2024-12-03 20:32:46,530 INFO    MainThread:6068 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-12-03 20:32:47,007 INFO    MainThread:6068 [wandb_init.py:init():867] starting run threads in backend
+2024-12-03 20:32:47,126 INFO    MainThread:6068 [wandb_run.py:_console_start():2456] atexit reg
+2024-12-03 20:32:47,127 INFO    MainThread:6068 [wandb_run.py:_redirect():2305] redirect: wrap_raw
+2024-12-03 20:32:47,127 INFO    MainThread:6068 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2024-12-03 20:32:47,127 INFO    MainThread:6068 [wandb_run.py:_redirect():2395] Redirects installed.
+2024-12-03 20:32:47,130 INFO    MainThread:6068 [wandb_init.py:init():911] run started, returning control to user process
+2024-12-03 20:32:49,111 INFO    MainThread:6068 [wandb_run.py:_config_callback():1387] config_cb None None {'random_forest': {'n_estimators': 100, 'criterion': 'gini', 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 1, 'min_weight_fraction_leaf': 0.0, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'bootstrap': True, 'oob_score': False, 'n_jobs': None, 'random_state': 42, 'verbose': 0, 'warm_start': False, 'class_weight': 'balanced', 'ccp_alpha': 0.0, 'max_samples': None}, 'tfidf': {'max_features': 10}, 'features': {'numerical': ['danceability', 'energy', 'loudness', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms'], 'categorical': ['time_signature', 'key'], 'nlp': ['text_feature']}, 'export_artifact': 'model_export'}
+2024-12-03 20:33:17,587 WARNING MsgRouterThr:6068 [router.py:message_loop():75] message_loop has been closed

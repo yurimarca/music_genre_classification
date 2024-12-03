@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/a85cf62d5fa347d28bc52ca69d0c9573/artifacts
+end_time: 1733268818851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a85cf62d5fa347d28bc52ca69d0c9573
+run_name: marvelous-horse-13
+run_uuid: a85cf62d5fa347d28bc52ca69d0c9573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733268687815
+status: 3
+tags: []
+user_id: ymarca

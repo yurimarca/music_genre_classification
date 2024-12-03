@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/a449e14fe95a425d9382d3c248bddea2/artifacts
+end_time: 1733268802251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a449e14fe95a425d9382d3c248bddea2
+run_name: brawny-shad-717
+run_uuid: a449e14fe95a425d9382d3c248bddea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733268761277
+status: 3
+tags: []
+user_id: ymarca

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/75810477003348979a5b8e5415f0b557/artifacts
+end_time: 1733268725008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75810477003348979a5b8e5415f0b557
+run_name: handsome-gnu-82
+run_uuid: 75810477003348979a5b8e5415f0b557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733268706043
+status: 3
+tags: []
+user_id: ymarca

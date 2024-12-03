@@ -1,0 +1,31 @@
+[1m=============================================================================================== test session starts ================================================================================================[0m
+platform linux -- Python 3.13.0, pytest-8.3.4, pluggy-1.5.0 -- /home/ymarca/anaconda3/envs/mlflow-2a75d5483ccc955a591f3bf19dd358a7ce61a76f/bin/python3.13
+cachedir: .pytest_cache
+rootdir: /home/ymarca/Code/music_genre_classification/check_data
+collected 4 items                                                                                                                                                                                                  [0m[1m
+
+test_data.py::test_column_presence_and_type [32mPASSED[0m
+test_data.py::test_class_names [32mPASSED[0m
+test_data.py::test_column_ranges [32mPASSED[0m
+test_data.py::test_kolmogorov_smirnov [32mPASSED[0m
+
+[33m================================================================================================= warnings summary =================================================================================================[0m
+../../../anaconda3/envs/mlflow-2a75d5483ccc955a591f3bf19dd358a7ce61a76f/lib/python3.13/site-packages/google/protobuf/internal/well_known_types.py:91
+  /home/ymarca/anaconda3/envs/mlflow-2a75d5483ccc955a591f3bf19dd358a7ce61a76f/lib/python3.13/site-packages/google/protobuf/internal/well_known_types.py:91: DeprecationWarning: datetime.datetime.utcfromtimestamp() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.fromtimestamp(timestamp, datetime.UTC).
+    _EPOCH_DATETIME_NAIVE = datetime.datetime.utcfromtimestamp(0)
+
+../../../anaconda3/envs/mlflow-2a75d5483ccc955a591f3bf19dd358a7ce61a76f/lib/python3.13/site-packages/google/protobuf/internal/well_known_types.py:195: 4 warnings
+test_data.py: 12 warnings
+  /home/ymarca/anaconda3/envs/mlflow-2a75d5483ccc955a591f3bf19dd358a7ce61a76f/lib/python3.13/site-packages/google/protobuf/internal/well_known_types.py:195: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    self.FromDatetime(datetime.datetime.utcnow())
+
+test_data.py::test_column_presence_and_type
+  /home/ymarca/Code/music_genre_classification/check_data/conftest.py:29: DtypeWarning: Columns (16) have mixed types. Specify dtype option on import or set low_memory=False.
+    sample1 = pd.read_csv(local_path)
+
+test_data.py::test_column_presence_and_type
+  /home/ymarca/Code/music_genre_classification/check_data/conftest.py:32: DtypeWarning: Columns (16) have mixed types. Specify dtype option on import or set low_memory=False.
+    sample2 = pd.read_csv(local_path)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+[33m========================================================================================== [32m4 passed[0m, [33m[1m19 warnings[0m[33m in 4.54s[0m[33m ==========================================================================================[0m

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/adc9fb89a9ad46f48c3aabaae548de29/artifacts
+end_time: 1733268761245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adc9fb89a9ad46f48c3aabaae548de29
+run_name: rambunctious-asp-343
+run_uuid: adc9fb89a9ad46f48c3aabaae548de29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733268736554
+status: 3
+tags: []
+user_id: ymarca

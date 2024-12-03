@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/f3b15fe7fe04418fb792c827e7dc2e94/artifacts
+end_time: 1733268818667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3b15fe7fe04418fb792c827e7dc2e94
+run_name: painted-rook-252
+run_uuid: f3b15fe7fe04418fb792c827e7dc2e94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733268802277
+status: 3
+tags: []
+user_id: ymarca

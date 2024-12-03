@@ -1,0 +1,28 @@
+2024-12-03 20:31:34,609 INFO    MainThread:5832 [wandb_setup.py:_flush():69] setting env: {'run_group': 'dev', 'project': 'prod'}
+2024-12-03 20:31:34,610 INFO    MainThread:5832 [wandb_setup.py:_flush():69] setting login settings: {}
+2024-12-03 20:31:34,610 INFO    MainThread:5832 [wandb_init.py:_log_setup():334] Logging user logs to /home/ymarca/Code/music_genre_classification/download/wandb/run-20241203_203134-40t71usw/logs/debug.log
+2024-12-03 20:31:34,611 INFO    MainThread:5832 [wandb_init.py:_log_setup():335] Logging internal logs to /home/ymarca/Code/music_genre_classification/download/wandb/run-20241203_203134-40t71usw/logs/debug-internal.log
+2024-12-03 20:31:34,612 INFO    MainThread:5832 [wandb_init.py:init():367] calling init triggers
+2024-12-03 20:31:34,612 INFO    MainThread:5832 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 20:31:34,613 INFO    MainThread:5832 [wandb_init.py:init():416] starting backend
+2024-12-03 20:31:34,613 INFO    MainThread:5832 [backend.py:_multiprocessing_setup():69] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-12-03 20:31:34,640 INFO    MainThread:5832 [backend.py:ensure_launched():123] starting backend process...
+2024-12-03 20:31:34,645 INFO    MainThread:5832 [backend.py:ensure_launched():127] started backend process with pid: 5843
+2024-12-03 20:31:34,647 INFO    MainThread:5832 [wandb_init.py:init():421] backend started and connected
+2024-12-03 20:31:34,648 INFO    MainThread:5832 [wandb_init.py:init():461] updated telemetry
+2024-12-03 20:31:34,649 INFO    MainThread:5832 [wandb_init.py:init():480] communicating current version
+2024-12-03 20:31:35,212 INFO    MainThread:5832 [wandb_init.py:init():485] got version response upgrade_message: "wandb version 0.18.7 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-12-03 20:31:35,213 INFO    MainThread:5832 [wandb_init.py:init():493] communicating run to backend with 30 second timeout
+2024-12-03 20:31:35,743 INFO    MainThread:5832 [wandb_init.py:init():518] starting run threads in backend
+2024-12-03 20:31:35,835 INFO    MainThread:5832 [wandb_run.py:_console_start():1476] atexit reg
+2024-12-03 20:31:35,836 INFO    MainThread:5832 [wandb_run.py:_redirect():1339] redirect: SettingsConsole.REDIRECT
+2024-12-03 20:31:35,837 INFO    MainThread:5832 [wandb_run.py:_redirect():1344] Redirecting console.
+2024-12-03 20:31:35,838 INFO    MainThread:5832 [redirect.py:install():213] install start
+2024-12-03 20:31:35,839 INFO    MainThread:5832 [redirect.py:install():228] install stop
+2024-12-03 20:31:35,839 INFO    MainThread:5832 [redirect.py:install():213] install start
+2024-12-03 20:31:35,840 INFO    MainThread:5832 [redirect.py:install():228] install stop
+2024-12-03 20:31:35,841 INFO    MainThread:5832 [wandb_run.py:_redirect():1390] Redirects installed.
+2024-12-03 20:31:35,841 INFO    MainThread:5832 [wandb_init.py:init():542] run started, returning control to user process
+2024-12-03 20:31:42,485 INFO    MainThread:5832 [wandb_run.py:finish():1135] finishing run yurimarca-ai/prod/40t71usw

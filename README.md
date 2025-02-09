@@ -42,14 +42,14 @@ To run the complete pipeline, execute:
 ```bash
 mlflow run .
 ```
-Alternatively, you can run individual scripts:
+
+Alternatively, you can run  MLflow with Git Repository Release [1.0](https://github.com/yurimarca/music_genre_classification/releases/tag/1.0):
 ```bash
-python download.py       # Download dataset
-python preprocess.py     # Preprocess data
-python segregate.py      # Split dataset
-python train_rf.py       # Train Random Forest model
-python evaluate.py       # Evaluate model performance
+mlflow run https://github.com/yurimarca/music_genre_classification.git -v 1.0
 ```
+This will download and execute the latest released version of the pipeline.
+
+
 
 ## Experiment Tracking
 - **Weights & Biases (W&B):** Logs experiment details for better visualization.

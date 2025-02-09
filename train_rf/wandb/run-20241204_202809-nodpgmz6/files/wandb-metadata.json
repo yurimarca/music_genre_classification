@@ -1,0 +1,46 @@
+{
+  "os": "Linux-6.8.9-100.fc38.x86_64-x86_64-with-glibc2.37",
+  "python": "3.10.15",
+  "startedAt": "2024-12-04T23:28:09.528661Z",
+  "args": [
+    "--train_data",
+    "data_train.csv:latest",
+    "--model_config",
+    "/home/ymarca/Code/music_genre_classification/outputs/2024-12-04/20-26-57/random_forest_config.yml",
+    "--export_artifact",
+    "model_export",
+    "--random_seed",
+    "42",
+    "--val_size",
+    "0.3",
+    "--stratify",
+    "genre"
+  ],
+  "program": "/home/ymarca/Code/music_genre_classification/train_rf/run.py",
+  "codePath": "train_rf/run.py",
+  "git": {
+    "remote": "git@github.com:yurimarca/music_genre_classification.git",
+    "commit": "60316f0fc5820b0ccc938b371196c772d1582c9d"
+  },
+  "email": "yurimarca@gmail.com",
+  "root": "/home/ymarca/Code/music_genre_classification/train_rf",
+  "host": "fedora",
+  "username": "ymarca",
+  "executable": "/home/ymarca/anaconda3/envs/mlflow-f716abbe6b0761abfc3fd800c3369ad2d55e4fd9/bin/python",
+  "codePathLocal": "run.py",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "254356226048",
+      "used": "106352660480"
+    }
+  },
+  "memory": {
+    "total": "8034201600"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

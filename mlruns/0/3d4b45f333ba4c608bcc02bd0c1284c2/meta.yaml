@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/3d4b45f333ba4c608bcc02bd0c1284c2/artifacts
+end_time: 1733354861193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d4b45f333ba4c608bcc02bd0c1284c2
+run_name: efficient-sheep-385
+run_uuid: 3d4b45f333ba4c608bcc02bd0c1284c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733354849396
+status: 3
+tags: []
+user_id: ymarca

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/bd0a02ed61ff4a30965a49a807cbfc43/artifacts
+end_time: 1733354925239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd0a02ed61ff4a30965a49a807cbfc43
+run_name: wistful-snail-866
+run_uuid: bd0a02ed61ff4a30965a49a807cbfc43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733354884199
+status: 3
+tags: []
+user_id: ymarca

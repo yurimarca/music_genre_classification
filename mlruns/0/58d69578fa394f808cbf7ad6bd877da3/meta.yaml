@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/58d69578fa394f808cbf7ad6bd877da3/artifacts
+end_time: 1733354884168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58d69578fa394f808cbf7ad6bd877da3
+run_name: bittersweet-shad-225
+run_uuid: 58d69578fa394f808cbf7ad6bd877da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733354861222
+status: 3
+tags: []
+user_id: ymarca

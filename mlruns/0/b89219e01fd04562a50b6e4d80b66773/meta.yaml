@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/b89219e01fd04562a50b6e4d80b66773/artifacts
+end_time: 1733354831602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b89219e01fd04562a50b6e4d80b66773
+run_name: brawny-ox-24
+run_uuid: b89219e01fd04562a50b6e4d80b66773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733354817218
+status: 3
+tags: []
+user_id: ymarca

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/8d393735af1240359d2b86540570b7da/artifacts
+end_time: 1733354941882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d393735af1240359d2b86540570b7da
+run_name: luminous-koi-514
+run_uuid: 8d393735af1240359d2b86540570b7da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733354925264
+status: 3
+tags: []
+user_id: ymarca

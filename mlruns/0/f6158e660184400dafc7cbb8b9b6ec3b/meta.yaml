@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ymarca/Code/music_genre_classification/mlruns/0/f6158e660184400dafc7cbb8b9b6ec3b/artifacts
+end_time: 1733354849372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6158e660184400dafc7cbb8b9b6ec3b
+run_name: merciful-rat-485
+run_uuid: f6158e660184400dafc7cbb8b9b6ec3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733354831628
+status: 3
+tags: []
+user_id: ymarca

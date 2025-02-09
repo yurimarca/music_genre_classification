@@ -1,0 +1,18 @@
+{"time":"2024-12-04T20:27:34.003096894-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-04T20:27:34.003125731-03:00","level":"INFO","msg":"created symlink","path":"/home/ymarca/Code/music_genre_classification/check_data/wandb/run-20241204_202733-usju8ct6/logs/debug-core.log"}
+{"time":"2024-12-04T20:27:34.11168887-03:00","level":"INFO","msg":"created new stream","id":"usju8ct6"}
+{"time":"2024-12-04T20:27:34.11180116-03:00","level":"INFO","msg":"stream: started","id":"usju8ct6"}
+{"time":"2024-12-04T20:27:34.111912913-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"usju8ct6"}
+{"time":"2024-12-04T20:27:34.1120102-03:00","level":"INFO","msg":"handler: started","stream_id":"usju8ct6"}
+{"time":"2024-12-04T20:27:34.112276727-03:00","level":"INFO","msg":"sender: started","stream_id":"usju8ct6"}
+{"time":"2024-12-04T20:27:34.830574001-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-04T20:27:39.656309109-03:00","level":"INFO","msg":"stream: closing","id":"usju8ct6"}
+{"time":"2024-12-04T20:27:39.656343938-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-04T20:27:39.65686793-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-04T20:27:39.911118049-03:00","level":"WARN","msg":"No program path found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job"}
+{"time":"2024-12-04T20:27:39.911182079-03:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-04T20:27:40.523543665-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-04T20:27:40.831339052-03:00","level":"INFO","msg":"handler: closed","stream_id":"usju8ct6"}
+{"time":"2024-12-04T20:27:40.831482204-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"usju8ct6"}
+{"time":"2024-12-04T20:27:40.83156835-03:00","level":"INFO","msg":"sender: closed","stream_id":"usju8ct6"}
+{"time":"2024-12-04T20:27:40.831737589-03:00","level":"INFO","msg":"stream: closed","id":"usju8ct6"}
